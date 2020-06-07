@@ -1,0 +1,6 @@
+/out
+/test
+/.idea
+*.class
+.idea
+*.iml
